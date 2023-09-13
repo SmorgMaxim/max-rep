@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Massiv1", "..\Massiv1\Massi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassivTask2", "..\MassivTask2\MassivTask2.csproj", "{CF88334B-E767-41F3-992B-417F1537703C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassiveTask5", "..\MassiveTask5\MassiveTask5.csproj", "{C2E3DD77-6A9A-430A-89CA-0E9617A458FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CF88334B-E767-41F3-992B-417F1537703C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF88334B-E767-41F3-992B-417F1537703C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF88334B-E767-41F3-992B-417F1537703C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E3DD77-6A9A-430A-89CA-0E9617A458FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E3DD77-6A9A-430A-89CA-0E9617A458FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E3DD77-6A9A-430A-89CA-0E9617A458FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E3DD77-6A9A-430A-89CA-0E9617A458FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
